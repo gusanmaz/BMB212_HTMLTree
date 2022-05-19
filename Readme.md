@@ -80,7 +80,7 @@ Printing HTML output for document #3:
 Printing HTML output for document #4:
 ```
 
-#### `Main.java` altindaki GetHTML4Document1() fonksiyonunda uretilen HTML agaci
+###### `Main.java` altindaki GetHTML4Document1() fonksiyonunda uretilen HTML agaci
 
 ![Tree1](tree1.png)
 
