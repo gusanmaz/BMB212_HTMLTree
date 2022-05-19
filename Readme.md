@@ -5,9 +5,19 @@
 * Sizden istenen HTMLTree sinifindaki GETHTML() metodunun islevini yerine getirebilmesi icin `HTMLTree.java` dosyasinda gerekli duzenlemeleri yapmanizdir.
 * `GETHTML()` metodunun ustundeki yorum satirlarini okuyarak bu metodun nasil bir islev gerceklestirmesi gerektigini ogrenebilirsiniz.
 
+## Uyarilar
+
 * Projenizdeki HTMLNode.java dosyasi icinde herhangi bir degisiklik yapmayiniz.
 * `HTMLTree.java` dosyasindaki constructor(yapici) kodlar uzerinde herhangi bir degisiklik yapmayiniz.
 * `HTMLTree.java` dosyasindaki sinif degiskeni olan root degiskeninin tanimlandigi satirda herhangi bir oynama yapmayiniz.
 * Yeni bir java uzantili kaynak dosyasi olusturmayiniz.
 * Github'a yukleyeceginiz kodun derlendiginden emin olunuz. Derlenmeyen kodlar 0 puan alacaktir!
+
+## Kodun derlenmesi
+
+```javac HTMLNode.java HTMLTree.java Main.java```
+
+## Kodun calistirilmasi
+
+```java Main```
 
