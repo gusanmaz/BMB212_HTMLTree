@@ -84,3 +84,15 @@ Printing HTML output for document #4:
 
 ![Tree1](tree1.png)
 
+###### `Main.java` altindaki GetHTML4Document2() fonksiyonunda uretilen HTML agaci
+
+![Tree2](tree2.png)
+
+###### `Main.java` altindaki GetHTML4Document3() fonksiyonunda uretilen HTML agaci
+
+![Tree3](tree3.png)
+
+###### `Main.java` altindaki GetHTML4Document4() fonksiyonunda uretilen HTML agaci
+
+![Tree1](tree4.png)
+
