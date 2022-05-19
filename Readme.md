@@ -80,3 +80,5 @@ Printing HTML output for document #3:
 Printing HTML output for document #4:
 ```
 
+![Tree1](tree1.png)
+
