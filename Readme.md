@@ -1,5 +1,7 @@
 # Proje 5 (Basit HTML Agaci)
 
+[Proje 5 Github Classroom Davet Linki](https://classroom.github.com/a/TfLcRNa5)
+
 * Bu projede `HTMLTree` sinifinda bir HTML dokumanindaki veriler basitlestirilmis olarak saklanabilmektedir. 
 * Bu proje icin HTML dokumanlarini sadece HTML etiketlerinden (taglerinden) olusan dokumanlar olarak varsayaniz.
 * Sizden istenen HTMLTree sinifindaki GETHTML() metodunun islevini yerine getirebilmesi icin `HTMLTree.java` dosyasinda gerekli duzenlemeleri yapmanizdir.
