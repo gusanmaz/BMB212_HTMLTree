@@ -21,3 +21,62 @@
 
 ```java Main```
 
+## Program ciktisi
+
+Size verilen kod Main.java uzerinde degisiklik yapilmadiginda ve `GETHTML()` metodu dogru kodlandiginda asagidaki ciktiyi uretmelidir.
+
+```html
+Printing HTML output for document #1:
+<html>
+   <body>
+      <div>
+         <article>
+         </article>
+      </div>
+      <p>
+      </p>
+      <h1>
+      </h1>
+   </body>
+</html>
+Printing HTML output for document #2:
+<html>
+   <head>
+      <meta>
+      </meta>
+      <title>
+      </title>
+   </head>
+   <body>
+      <h1>
+      </h1>
+      <div>
+         <div>
+            <p>
+               <a>
+               </a>
+            </p>
+         </div>
+      </div>
+      <article>
+      </article>
+      <div>
+         <ol>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+         </ol>
+      </div>
+   </body>
+</html>
+Printing HTML output for document #3:
+<html>
+</html>
+Printing HTML output for document #4:
+```
+
